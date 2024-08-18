@@ -1,0 +1,16 @@
+manifest_version = "0.0.0-alpha"
+
+[library]
+name = "tp-utils"
+version = "0.0.1"
+short_description = "Some OpenSCAD utilities and components"
+long_description = "Some OpenSCAD utilities and components"
+authors = [
+    { name = 'Torsten Paul', email = 'Torsten.Paul@gmx.de' },
+]
+maintainers = [
+    { name = 'Torsten Paul', email = 'Torsten.Paul@gmx.de' },
+]
+tags = ['utils']
+readme = "README.md"
+license = { file = "LICENSE", identifier = "MIT" }
