@@ -14,3 +14,11 @@ maintainers = [
 tags = ['utils']
 readme = "README.md"
 license = { file = "LICENSE", identifier = "MIT" }
+
+[urls]
+repository = "https://github.com/t-paul/tp-scad-utils"
+homepage = "https://github.com/t-paul/tp-scad-utils"
+documentation = "https://github.com/t-paul/tp-scad-utils"
+preview_images = [
+    "image1.png",
+]
